@@ -1,0 +1,25 @@
+{
+  "name": "generest-server",
+  "version": "1.0.0",
+  "description": "backend for generest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nortonph/generest-server.git"
+  },
+  "author": "Philipp Norton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nortonph/generest-server/issues"
+  },
+  "homepage": "https://github.com/nortonph/generest-server#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "http-proxy-middleware": "^3.0.3"
+  }
+}
